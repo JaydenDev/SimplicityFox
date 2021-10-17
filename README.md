@@ -1,0 +1,2 @@
+# SimplicityFox
+Firefox... Simplified.
